@@ -1,8 +1,11 @@
 
 ## Estructura del Proyecto
 data/raw/: Dataset original.
+
 data/processed/: Dataset tras la limpieza.
+
 notebooks/: Archivos .ipynb para el EDA.
+
 src/: Scripts .py para limpieza y funciones modulares
 
 ## Análisis EDA 
